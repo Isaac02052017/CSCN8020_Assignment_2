@@ -1,0 +1,47 @@
+# --------------------------
+# Python / Jupyter / Project ignore rules
+# --------------------------
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Output and temporary files
+*.log
+*.out
+*.tmp
+*.bak
+
+# Build / distribution directories
+build/
+dist/
+*.egg-info/
+
+# Reports and generated files
+Assignment2.pdf
+Assignment2.docx
+*.html
+
+# Data or extracted images
+extracted_plot_*.png
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Notebook exports and cache
+*.nbconvert.ipynb
+*.ipynb_checkpoints
+__MACOSX/

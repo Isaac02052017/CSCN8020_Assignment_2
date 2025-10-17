@@ -1,0 +1,19 @@
+# Core scientific and data libraries
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.2
+
+# OpenAI Gym (for Taxi-v3 environment)
+gym==0.26.2
+gym-notices==0.0.8
+
+# Optional visualization library (for human-render mode)
+pygame==2.5.2
+
+# For Jupyter Notebook compatibility
+ipykernel==6.29.5
+jupyterlab==4.2.4
+
+# Optional export and report creation
+python-docx==1.1.2
+reportlab==4.2.2
